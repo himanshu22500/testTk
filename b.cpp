@@ -20,13 +20,6 @@ ll getMax(int i, int j){
 }
  
 int main(){
-    cin>>n>>m;
-    for(int i=0; i<n; i++){
-        for(int j=0; j<m; j++){
-            cin>>arr[i][j];
-        }
-    }
- 
-    ll ans = getMax(0,0);
-    cout<<ans<<endl;
+int n ; cin>>n;
+cout<<n<<endl;
 }
